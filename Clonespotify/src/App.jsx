@@ -1,5 +1,6 @@
 import Player from "./components/Player";
-import Sidebar from "./components/sidebar";
+import Sidebar from "./components/SidebarSpotify";
+
 
 
 const App = () => {
