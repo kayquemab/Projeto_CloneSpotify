@@ -1,7 +1,5 @@
 import Player from "./components/Player";
-import SideBar from "./components/sidebar";
-
-
+import SideBar from "./components/Sidebar";
 
 const App = () => {
   return (
