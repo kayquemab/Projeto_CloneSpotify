@@ -42,7 +42,7 @@ npm run dev
 
 ---
 
-📌 Observações
+## 📌 Observações
 
 * Layout inspirado no Spotify (Home / Sidebar / Player)
 * Lista de músicas (mock/dados locais)
