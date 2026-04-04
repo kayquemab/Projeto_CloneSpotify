@@ -1,55 +1,40 @@
-# 📌 Clone Spotify — GreatStack
+# 📌 Clone Spotify
 
-Clone da interface do Spotify com funcionalidade básica para música.
-
----
+Clone da interface do Spotify com implementação de player de música básico.
 
 ## 🚀 Tecnologias
 
-* React.js
-* Tailwind
+* React
+* Tailwind CSS
 * JavaScript
 * Vite
 
----
-
 ## ✨ Funcionalidades
 
-* Listagem de músicas (dados locais/mock)
-* Player básico:
-  - Play / Pause
-  - Próxima / Anterior
-  - Barra de progresso (seek)
-  - Exibição de nome da música / artista / capa
-* Navegação de interface estilo Spotify (Sidebar + páginas)
----
+* Listagem de músicas
+* Player com controles (play, pause, próxima, anterior)
+* Barra de progresso
+* Interface inspirada no Spotify
 
 ## ⚙️ Como executar
 
 ```bash
-# Clone o repositório
 git clone https://github.com/kayquemab/Projeto_CloneSpotify
+cd cloneSpotify
 
-# Instale as dependências
+# Instalar dependências
 npm install
 
-# No terminal, rode a pasta do projeto
-cd Clonespotify
-
-# No primeiro terminal, rode o projeto
+# Executar o projeto
 npm run dev
 ```
 
----
-
 ## 📌 Observações
 
-* Layout inspirado no Spotify (Home / Sidebar / Player)
-* Lista de músicas (mock/dados locais)
-* Player com controles básicos
-
----
+* Requer Node.js instalado
+* Utiliza dados mockados/local
 
 ## 👤 Autor
 
-Criado por **GreatStack** | Desenvolvido por **Kayque Miqueias**
+* Criado por **GreatStack**
+* Desenvolvido por **Kayque Miqueias**
