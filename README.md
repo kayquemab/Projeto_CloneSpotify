@@ -20,7 +20,7 @@ Clone da interface do Spotify com implementação de player de música básico.
 
 ```bash
 git clone https://github.com/kayquemab/Projeto_CloneSpotify
-cd cloneSpotify
+cd CloneSpotify
 
 # Instalar dependências
 npm install
